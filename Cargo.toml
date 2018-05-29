@@ -1,0 +1,6 @@
+[package]
+name = "asciifier"
+version = "0.1.0"
+authors = ["Clara Scherer <git20357@s.cherer.de>"]
+
+[dependencies]
