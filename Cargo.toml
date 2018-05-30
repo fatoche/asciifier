@@ -1,6 +1,6 @@
 [package]
 name = "asciifier"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Clara Scherer <git20357@s.cherer.de>"]
 
 description = "Convert any special characters in a UTF-8 string into readable ascii representations."
